@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NameMakerDefs>
+  <RulePackDef>
+    <defName>ChangeFactionName_NamerFaction</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name->dummy</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>custom_faction_name</keyword>
+          <path>Words/Nouns/CustomFactionName</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+</NameMakerDefs>

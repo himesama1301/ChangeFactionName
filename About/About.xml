@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>派閥名変更</name>
+  <author>姫さま</author>
+  <targetVersion>0.17.0</targetVersion>
+  <url>https://github.com/himesama1301/ChangeFactionName</url>
+  <description>
+    派閥の名前を変更します。
+    一つの派閥名リストを使って、異国人、部族、宙族にランダムで名前を割り振ります。
+    日本語専用。
+  </description>
+</ModMetaData>
