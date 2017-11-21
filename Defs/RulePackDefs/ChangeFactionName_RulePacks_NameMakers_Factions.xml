@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<NameMakerDefs>
+<Defs>
   <RulePackDef>
     <defName>ChangeFactionName_NamerFaction</defName>
     <rulePack>
@@ -14,4 +14,4 @@
       </rulesRaw>
     </rulePack>
   </RulePackDef>
-</NameMakerDefs>
+</Defs>
